@@ -527,7 +527,7 @@ const Footer = ({ navigate }) => {
             <h3 className="text-xl font-bold text-white">Amen <span className="text-amber-400">Cinematic</span></h3>
             <p className="text-gray-400">Cinematic storytelling for life's most important moments.</p>
             <div className="flex space-x-4 pt-2">
-              <a href="https://www.instagram.com/your_username" aria-label="Instagram" className="text-gray-400 hover:text-amber-400 transition-colors"><Instagram size={24} /></a>
+              <a href="https://www.instagram.com/amen_cinematic?igsh=MXJ2czlkbnN3dzh4Nw%3D%3D&utm_source=qr" aria-label="Instagram" className="text-gray-400 hover:text-amber-400 transition-colors"><Instagram size={24} /></a>
               <a href="#" aria-label="YouTube" className="text-gray-400 hover:text-amber-400 transition-colors"><Youtube size={24} /></a>
               <a href="#" aria-label="TikTok" className="text-gray-400 hover:text-amber-400 transition-colors"><TiktokIcon className="w-6 h-6" /></a>
             </div>
