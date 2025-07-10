@@ -30,10 +30,10 @@ const mockData = {
   portfolio: {
     weddings: [
       { id: 1, type: 'video', url: '/Black 6k pro023_09050645_C003_2.mp4', thumb: '/JPEG/DSC02868.jpg', title: 'Kalkidan' },
-      { id: 2, type: 'photo', url: '/JPEG/FZ2A8738.jpg', thumb: '/JPEG/FZ2A8738.jpg', title: 'Elegant Ceremony' },
-      { id: 3, type: 'photo', url: '/JPEG/FZ2A8812.jpg', thumb: '/JPEG/FZ2A8812.jpg', title: 'Golden Hour Kiss' },
-      { id: 4, type: 'video', url: '/Black 6k pro023_09050645_C003_2.mp4', thumb: '/Black 6k pro023_09050645_C003_2.mp4text=Wedding+Video+2', title: 'Jessica & Mike' },
-      { id: 5, type: 'photo', url: '/JPEG/FZ2A9581.jpg', thumb: '/JPEG/FZ2A9581.jpg', title: 'Golden Hour Kiss' },
+      { id: 2, type: 'photo', url: '/JPEG/FZ2A8738.jpg', thumb: '/JPEG/FZ2A8738.jpg', title: '' },
+      { id: 3, type: 'photo', url: '/JPEG/FZ2A8812.jpg', thumb: '/JPEG/FZ2A8812.jpg', title: '' },
+      { id: 4, type: 'video', url: '/Black 6k pro023_09050645_C003_2.mp4', thumb: '/Black 6k pro023_09050645_C003_2.mp4text=Wedding+Video+2', title: '' },
+      { id: 5, type: 'photo', url: '/JPEG/FZ2A9581.jpg', thumb: '/JPEG/FZ2A9581.jpg', title: '' },
     ],
     'real-estate': [
       { id: 1, type: 'photo', url: '/JPEG/4.png', thumb: '/JPEG/4.png', title: 'Modern Luxury Villa' },
